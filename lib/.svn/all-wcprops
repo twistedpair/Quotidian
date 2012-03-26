@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/!svn/ver/100/trunk/lib
+END
+junit-4.10.jar
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/100/trunk/lib/junit-4.10.jar
+END
+mockito-all-1.8.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/100/trunk/lib/mockito-all-1.8.5.jar
+END

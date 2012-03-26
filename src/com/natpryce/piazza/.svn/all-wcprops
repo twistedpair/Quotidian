@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/104/trunk/src/com/natpryce/piazza
+END
+PiazzaNotificator.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/104/trunk/src/com/natpryce/piazza/PiazzaNotificator.java
+END
+BuildStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/104/trunk/src/com/natpryce/piazza/BuildStatus.java
+END
+Text.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/104/trunk/src/com/natpryce/piazza/Text.java
+END
+BuildTypeMonitorViewState.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/104/trunk/src/com/natpryce/piazza/BuildTypeMonitorViewState.java
+END
+TestStatisticsViewState.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/104/trunk/src/com/natpryce/piazza/TestStatisticsViewState.java
+END
+PiazzaLinkPageExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/104/trunk/src/com/natpryce/piazza/PiazzaLinkPageExtension.java
+END
+ProjectMonitorViewState.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/104/trunk/src/com/natpryce/piazza/ProjectMonitorViewState.java
+END
+UserGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/104/trunk/src/com/natpryce/piazza/UserGroup.java
+END
+BuildMonitorController.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/104/trunk/src/com/natpryce/piazza/BuildMonitorController.java
+END
+PiazzaUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/104/trunk/src/com/natpryce/piazza/PiazzaUser.java
+END
+Piazza.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/104/trunk/src/com/natpryce/piazza/Piazza.java
+END
+PiazzaUserAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/104/trunk/src/com/natpryce/piazza/PiazzaUserAdapter.java
+END
